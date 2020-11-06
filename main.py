@@ -9,7 +9,7 @@ if __name__ == "__main__":
     ip.image_preprocessing(path,file1)
     ip.image_preprocessing(path,file2) 
 
-    # dt.data_processing()
+    dt.data_processing()
 
 
 
