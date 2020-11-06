@@ -21,7 +21,7 @@ Working:  According to observation, shown above by using change in color intensi
 
 References: 
 
-1. DataSet collected from : https://www.kaggle.com/datasets
+1. DataSet collected from : https://www.kaggle.com/ansubkhan/malaria-detection
 2.  Readings : https://www.ijrte.org/wp-content/uploads/papers/v8i6/F9540038620.pdf
 
 
